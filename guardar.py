@@ -2,10 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import sqlite3
-
 # 1. Importación del Dataset
-df = pd.read_csv('C:/Users/ayeal/OneDrive/Documentos/Examen_Ayelen_Alva/votaciones.csv')
-
+df = pd.read_csv('C:/Users/ayeal/OneDrive/Documentos/Examen_Alva_Ayelen/votaciones.csv')
 # 2. Exploración Inicial de los Datos
 print("Primeras filas:")
 print(df.head())
