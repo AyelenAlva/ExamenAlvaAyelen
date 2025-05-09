@@ -1,0 +1,102 @@
+nombre,apellido,dni,provincia,voto,fecha_votacion
+pánfilo,pombo,34787190.0,buenos aires,nulo,2024-11-22
+albina,heredia,48336819.0,santa fe,nulo,2024-04-24
+,solano,49179364.0,neuquen,nulo,2024-05-20
+salomé,barrio,43725639.0,buenos aires,,05-06-2024
+matías,esteban,30599927.0,chaco,no,10-07-2023
+,sosa,17014535.0,santa fe,sí,02-11-2024
+gervasio,bou,33761658.0,mendoza,no,23-09-2023
+brígida,angulo,22169546.0,chaco,no,2024-05-02
+glauco,fabra,,cordoba,sí,07-06-2023
+trinidad,company,12192872.0,neuquen,nulo,30-10-2024
+verónica,posada,35293135.0,santa fe,no,2024-09-15
+anastasio,galvez,42313020.0,santa fe,no,01-11-2023
+,lastra,21680295.0,chaco,nulo,2025-04-26
+otilia,fortuny,,santa fe,no,2025-03-29
+baudelio,sanabria,24036189.0,tucuman,no,2024-04-04
+norberto,pinto,26760317.0,,nulo,
+raquel,,23274249.0,misiones,nulo,24-06-2023
+juan josé,suarez,29043980.0,santa fe,no,23-10-2024
+valero,,,corrientes,sí,2024-03-07
+ramiro,checa,31711663.0,chaco,no,2024-08-25
+juan francisco,,11513766.0,neuquen,nulo,2024-10-25
+josep,,19158442.0,mendoza,nulo,2024-05-04
+leopoldo,arellano,44487588.0,,nulo,2023-10-09
+,vera,49205539.0,salta,nulo,2023-06-16
+encarnación,seguí,49044231.0,cordoba,nulo,26-11-2024
+guiomar,aramburu,17514893.0,corrientes,sí,22-11-2024
+nerea,fajardo,44318980.0,corrientes,nulo,2024-07-05
+andrea,cózar,32640395.0,mendoza,sí,
+violeta,zamora,,salta,no,19-11-2023
+raimundo,,12262816.0,neuquen,nulo,25-01-2024
+gil,carrera,33545757.0,santa fe,nulo,
+eligia,pinedo,23548531.0,,no,21-06-2024
+lucas,pozo,18472805.0,neuquen,sí,2024-05-03
+,ramis,34062282.0,formosa,nulo,2025-01-15
+florencio,solana,43531785.0,neuquen,nulo,
+,pina,25806228.0,corrientes,no,24-03-2024
+roberto,sevillano,32940620.0,mendoza,sí,06-08-2024
+rufino,jordá,25186385.0,cordoba,sí,2023-05-13
+manu,llano,26095105.0,,sí,
+gregorio,jódar,40808148.0,tucuman,no,17-12-2024
+lupita,prado,14649451.0,tucuman,sí,2023-09-27
+miguel ángel,castañeda,48066419.0,misiones,no,13-08-2023
+mar,benítez,31575838.0,,sí,2023-12-06
+,segovia,42571514.0,neuquen,no,
+luz,alemán,13652459.0,corrientes,sí,2024-12-28
+alejandra,cabezas,,buenos aires,sí,12-12-2024
+victorino,cabo,23310842.0,tucuman,sí,2025-03-25
+anita,iborra,22651735.0,,no,2024-12-12
+regina,bayona,29097522.0,neuquen,no,2024-06-28
+,,,buenos aires,,2024-05-03
+lucas,rodriguez,12345678,buenos aires,sí,12-10-2023
+maría,perez,23456789,santa fe,no,2023-10-14
+juan,gomez,34567890,mendoza,nulo,14-10-2023
+sofia,fernandez,,cordoba,sí,2023-10-13
+,ramirez,45678901,neuquen,no,13-10-2023
+laura,,56789012,tucuman,nulo,2023-10-12
+matias,molina,67890123,chaco,sí,12-10-2023
+carlos,aguirre,78901234,formosa,no,11-10-2023
+ana,benitez,89012345,misiones,,2023-10-11
+diego,aranda,90123456,salta,nulo,2023-10-10
+luciana,rios,12398765,san juan,sí,10-10-2023
+julian,navarro,23419876,buenos aires,no,2023-10-09
+celeste,caceres,,cordoba,nulo,09-10-2023
+elias,dominguez,34521987,salta,sí,2023-10-08
+valeria,leiva,45632198,santa fe,nulo,08-10-2023
+martin,paz,56743219,tucuman,no,2023-10-07
+florencia,flores,67854320,mendoza,sí,07-10-2023
+nicolas,vargas,78965431,formosa,,2023-10-06
+agustina,peralta,89076542,chaco,nulo,2023-10-05
+franco,ibañez,90187653,cordoba,no,05-10-2023
+tatiana,mansilla,,misiones,sí,04-10-2023
+,cruz,12312312,neuquen,nulo,03-10-2023
+emilia,rojas,23423423,buenos aires,no,02-10-2023
+benjamin,sosa,34534534,formosa,nulo,01-10-2023
+julieta,castro,45645645,salta,sí,30-09-2023
+camila,mena,56756756,santa fe,no,2023-09-29
+joaquin,cano,67867867,tucuman,sí,29-09-2023
+melina,luna,78978978,cordoba,nulo,2023-09-28
+daniel,quiroga,89089089,buenos aires,sí,28-09-2023
+celina,bustos,90190190,neuquen,,27-09-2023
+pablo,pineda,11223344,mendoza,no,2023-09-26
+milagros,gimenez,22334455,formosa,sí,2023-09-25
+facundo,segura,33445566,misiones,nulo,25-09-2023
+romina,acosta,44556677,salta,no,2023-09-24
+ezequiel,coronel,,chaco,sí,24-09-2023
+lucrecia,carrizo,55667788,tucuman,no,23-09-2023
+santiago,muñoz,66778899,buenos aires,nulo,22-09-2023
+micaela,ferreyra,77889900,cordoba,sí,21-09-2023
+esteban,prieto,88990011,santa fe,no,20-09-2023
+natalia,arce,99001122,formosa,nulo,2023-09-19
+bruno,tapia,10111213,neuquen,sí,18-09-2023
+alma,pereyra,11121314,mendoza,no,17-09-2023
+alejandro,bazan,12131415,chaco,nulo,16-09-2023
+marcos,villalba,,salta,sí,15-09-2023
+yesica,ospina,13141516,buenos aires,no,2023-09-14
+leandro,torres,14151617,cordoba,sí,13-09-2023
+carla,vidal,15161718,misiones,nulo,2023-09-12
+federico,barrios,16171819,neuquen,no,11-09-2023
+belen,vera,17181920,tucuman,sí,2023-09-10
+gustavo,gauna,18192021,santa fe,nulo,09-09-2023
+rocio,avila,19202122,formosa,no,08-09-2023
